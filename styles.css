@@ -1,0 +1,26 @@
+body{background-color: gray;
+
+}
+.main{
+    border: solid 1px green;
+    width: 500px;
+    padding: 7px;
+    margin-left: 700px;
+    background-color: white;
+    margin-top: 20px;
+}
+.username{
+    padding-bottom: 6px;
+    display: flex;
+    justify-content: space-between;
+}
+.comment{
+    padding-top: 6px;
+}
+.title{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    font-size: xx-large;
+}
